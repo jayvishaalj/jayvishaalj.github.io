@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://jayvishaalj.github.com/sitemap.xml
-Host: https://jayvishaalj.github.com
